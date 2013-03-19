@@ -1,5 +1,8 @@
 {
   "name": "scripts",
   "version": "0.0.1",
-  "main": "main.ts"
+  "main": "main.ts",
+  "dependencies": {
+    "uranium": "git@github.com:moovweb/uranium.git"
+  }
 }
