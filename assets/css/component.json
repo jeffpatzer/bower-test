@@ -6,5 +6,8 @@
     "**/.*",
     "node_modules",
     "components"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap.css": "~2.1.1"
+  }
 }
